@@ -1,0 +1,27 @@
+state={
+	id=810
+	name="STATE_810"
+
+	history={
+		owner = CZE
+		victory_points = {
+			6558 10 
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 1
+			arms_factory = 2
+
+		}
+		add_core_of = CZE
+		add_core_of = CZE
+
+	}
+
+	provinces={
+		17 3381 3460 9532 11558 
+	}
+	manpower=871329
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

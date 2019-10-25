@@ -1,0 +1,42 @@
+
+state={
+	id=789
+	name="STATE_789"
+	resources={
+		oil=25.000
+	}
+
+	history={
+		owner = BUL
+		victory_points = {
+			9617 20 
+		}
+		victory_points = {
+			657 3 
+		}
+		buildings = {
+			infrastructure = 6
+			arms_factory = 3
+			industrial_complex = 1
+			657 = {
+				naval_base = 8
+
+			}
+			687 = {
+				naval_base = 1
+
+			}
+			dockyard = 1
+
+		}
+		add_core_of = BUL
+
+	}
+
+	provinces={
+		657 674 687 3076 6658 6677 9617 9635 11603 11636 13218 
+	}
+	manpower=3184261
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

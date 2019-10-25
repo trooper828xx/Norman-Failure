@@ -1,0 +1,23 @@
+state={
+	id=796
+	name="STATE_796"
+
+	history={
+		owner = POL
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = ROM
+		add_core_of = POL
+
+	}
+
+	provinces={
+		6761 11689 
+	}
+	manpower=541808
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

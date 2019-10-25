@@ -1,0 +1,31 @@
+state={
+	id=805
+	name="STATE_805"
+
+	history={
+		owner = SWE
+		victory_points = {
+			3122 3 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			3122 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = FIN
+		add_core_of = SWE
+
+	}
+
+
+	provinces={
+		66 3122 3172 11065 
+	}
+	manpower=142391 
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

@@ -1,0 +1,26 @@
+state={
+	id=814
+	name="STATE_814"
+
+	history={
+		owner = FRA
+		victory_points = {
+			6927 1 
+		}
+		buildings = {
+			infrastructure = 7
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = SPR
+		add_core_of = FRA
+
+	}
+
+	provinces={
+		854 897 3898 3899 6865 6927 9824 11779 
+	}
+	manpower=841811
+	buildings_max_level_factor=1.000
+	state_category = town
+}

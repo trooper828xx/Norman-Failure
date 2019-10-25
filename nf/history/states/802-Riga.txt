@@ -1,0 +1,26 @@
+state={
+	id=802
+	name="STATE_802"
+
+	history={
+		owner = SWE
+		victory_points = {
+			9340 5 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+
+		}
+		add_core_of = LAT
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		9240 9317 9340 
+	}
+	manpower=499129
+	buildings_max_level_factor=1.000
+	state_category = town
+}

@@ -1,0 +1,26 @@
+state={
+	id=792
+	name="STATE_792"
+
+	history={
+		owner = TUR
+		victory_points = {
+			949 15 
+		}
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 2
+
+		}
+		add_core_of = BUL
+		add_core_of = TUR
+
+	}
+
+	provinces={
+		3908 6857 9818 13219 
+	}
+	manpower=621035
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

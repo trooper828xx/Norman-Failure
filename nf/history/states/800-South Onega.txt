@@ -1,0 +1,21 @@
+state={
+	id=800
+	name="STATE_800"
+
+history={
+		owner = NOV
+		buildings = {
+			infrastructure = 3
+
+		}
+		add_core_of = NOV
+
+	}
+
+	provinces={
+		80 155 157 2998 3071 11146 13130 
+	}
+	manpower=80136
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

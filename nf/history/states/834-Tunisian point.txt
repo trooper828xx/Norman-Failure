@@ -1,0 +1,24 @@
+state={
+	id=834
+	name="STATE_834"
+
+	history={
+		owner = FRA
+		add_core_of = TUN
+		victory_points = {
+			7005 1 
+		}
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		3987 4992 9983 
+	}
+	manpower=38912
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

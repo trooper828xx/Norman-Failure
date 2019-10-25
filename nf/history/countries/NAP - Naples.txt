@@ -1,0 +1,51 @@
+﻿capital = 117
+
+oob = "NAP_1936"
+
+set_research_slots = 4
+set_stability = 0.6
+set_war_support = 0.7
+add_ideas = {
+	limited_exports
+	limited_conscription
+	partial_economic_mobilisation
+}
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	gwtank = 1
+	basic_light_tank = 1
+	#basic_heavy_tank = 1  # PLACEHOLDER
+	#basic_medium_tank = 1 # PLACEHOLDER
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+}
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 2
+	neutrality = 89
+	fascism = 9
+	communism = 0
+}
+create_country_leader = {
+	name = "Ferdinando Pius"
+	desc = ""
+	picture = "gfx/leaders/NAP/portrait_Naples_Ferdinando_Pius.dds"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=12
+	name="STATE_12"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = POL
+		victory_points = {
+			310 1 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 3
+
+		}
+		add_core_of = LAT
+		add_core_of = POL
+
+	}
+
+	provinces={
+		222 310 319 341 3255 3298 3388 6459 7482 9275 9501 10323 10493 11222 11302 11358 
+	}
+	manpower=1225645
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

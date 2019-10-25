@@ -1,0 +1,32 @@
+state={
+	id=804
+	name="STATE_804"
+
+	history={
+		owner = SWE
+		victory_points = {
+			3083 1 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 3
+			industrial_complex = 1
+			dockyard = 1
+			3083 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = FIN
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		169 3083 6066 6108 9094 9129 9194 11066 11172 11211 
+	}
+	manpower=557535
+	buildings_max_level_factor=1.000
+	state_category = town
+}

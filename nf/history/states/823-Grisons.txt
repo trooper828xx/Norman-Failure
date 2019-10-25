@@ -1,0 +1,28 @@
+state={
+	id=823
+	name="STATE_823"
+
+	resources = {
+			steel = 9
+			aluminium = 11
+	}
+
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+            add_extra_state_shared_buidling_slots = 1
+		}
+		add_core_of = SWI
+		add_core_of = AUS
+
+	}
+
+	provinces={
+		658 3660 3662 
+	}
+	manpower=450352
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

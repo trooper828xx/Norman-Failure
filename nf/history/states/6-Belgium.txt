@@ -1,0 +1,40 @@
+
+state={
+	id=6
+	name="STATE_6"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner = HOL
+		victory_points = {
+			6598 30 
+		}
+		victory_points = {
+			13068 1 
+		}
+			buildings = {
+			infrastructure = 9
+			arms_factory = 5
+			industrial_complex = 7
+			air_base = 3
+
+			6598 = {
+				naval_base = 8
+
+			}
+
+		}
+		add_extra_state_shared_building_slots = 1
+		add_core_of = HOL
+
+	}
+
+	provinces={
+		6598 9574 11419 13068 
+	}
+	manpower=846448
+	buildings_max_level_factor=1.000
+	state_category=town
+}

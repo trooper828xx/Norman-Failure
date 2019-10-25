@@ -1,0 +1,29 @@
+﻿capital = 200
+
+oob = "CRI_1936"
+
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 5
+	neutrality = 90
+	fascism = 4
+	communism = 1
+}
+
+create_country_leader = {
+	name = "Ahmed Nihad"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "portrait_Crimea_Ahmed_Nihad.dds"
+	expire = "1965.1.1"
+	ideology = despotism
+	traits = {
+		#
+	}
+}

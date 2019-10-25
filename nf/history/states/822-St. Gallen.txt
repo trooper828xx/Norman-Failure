@@ -1,0 +1,28 @@
+state={
+	id=822
+	name="STATE_822"
+
+	resources={
+		aluminium=5
+		tungsten = 2
+	}
+
+	history={
+		owner = AUS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			add_extra_state_shared_buidling_slots = 1
+		}
+		add_core_of = AUS
+		add_core_of = SWI
+
+	}
+
+	provinces={
+		661 11623 
+	}
+	manpower=230692
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

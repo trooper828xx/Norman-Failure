@@ -1,0 +1,27 @@
+state={
+	id=842
+	name="STATE_842"
+
+	history={
+		owner = AUS
+		victory_points = {
+			11564 1 
+		}
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			industrial_complex = 3
+
+		}
+		add_core_of = AUS
+		add_core_of = HUN
+		add_core_of = CRO
+
+	}
+	provinces={
+		591 3601 6611 11564 11901 
+	}
+	manpower=489233
+	buildings_max_level_factor=1.000
+	state_category = town
+}

@@ -1,0 +1,22 @@
+state={
+	id=807
+	name="STATE_807"
+
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = FIN
+		add_core_of = SWE
+
+	}
+
+	provinces={
+		103 3069 3097 6061 
+	}
+	manpower=17871
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

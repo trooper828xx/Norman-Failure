@@ -1,0 +1,42 @@
+state={
+	id=801
+	name="STATE_801"
+
+	history={
+		owner = NOV
+		buildings = {
+			infrastructure = 5
+			arms_factory = 1
+			industrial_complex = 2
+            308 = {
+            	bunker = 1
+            }
+			496 = {
+				bunker = 2
+			}
+			3074 = {
+				bunker = 2
+			}
+			6381 = {
+				bunker = 1
+			}
+			9079 = {
+				bunker = 2
+			}
+			11127 = {
+				bunker = 1
+			}
+
+		}
+		add_core_of = EST
+		add_core_of = NOV
+
+	}
+
+	provinces={
+		308 496 3074 6381 9079 11127 
+	}
+	manpower=397824
+	buildings_max_level_factor=1.000
+	state_category = town
+}

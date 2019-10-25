@@ -1,0 +1,24 @@
+state={
+	id=838
+	name="STATE_838"
+
+	history={
+		owner = NAP
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = ITA
+		add_core_of = NAP
+
+	}
+
+	provinces={
+		3958 3968 6972 
+	}
+	manpower=967523
+	buildings_max_level_factor=1.000
+	state_category = town
+}
